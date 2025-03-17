@@ -5,24 +5,10 @@ import ecommerce from './assets/rc.jpg';
 
 
 export const projects = [
+   
+    
     {
-        id: 1,
-        img: recipe, 
-        alt: "Recipe App img",
-        name: "Recipe Finder App",
-        description:""
-
-    },
-    {
-        id: 2,
-        img: bank, 
-        alt:"Banking System img",
-        name: "Banking System",
-        description:"",
-    }
-    ,
-    {
-      id: 3,
+      id: 1,
       img: ecommerce, 
       alt:"E-ecommerce website img",
       name: "E-commerce Website",
@@ -31,7 +17,7 @@ export const projects = [
         "An E-commerce Website is an online platform that allows users to browse and purchase products, manage shopping carts, make secure payments, track orders, and offers features for sellers to manage inventory, process transactions, and track customer activities.",
     },
     {
-        id: 4,
+        id: 2,
         img: todo,
         alt:"Todo app img",
         name: "Todo List App",
@@ -39,6 +25,20 @@ export const projects = [
         link: 'https://todo-react-simple.vercel.app/'
         
         
+    }, {
+        id: 3,
+        img: recipe, 
+        alt: "Recipe App img",
+        name: "Recipe Finder App",
+        description:""
+
+    },
+    {
+        id: 4,
+        img: bank, 
+        alt:"Banking System img",
+        name: "Banking System",
+        description:"",
     }
     
    
