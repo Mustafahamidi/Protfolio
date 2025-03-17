@@ -35,7 +35,8 @@ export const projects = [
         img: todo,
         alt:"Todo app img",
         name: "Todo List App",
-        description: ""
+        description: "Sample react todo app",
+        link: 'https://todo-react-simple.vercel.app/'
         
         
     }
