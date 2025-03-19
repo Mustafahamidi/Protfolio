@@ -1,7 +1,9 @@
-import recipe from './assets/1.jpg';
+
 import todo from './assets/todo.jpg';
 import bank from './assets/bank.jpg';
 import ecommerce from './assets/rc.jpg';
+import recipe from './assets/recipe.jpg'
+
 
 
 export const projects = [
