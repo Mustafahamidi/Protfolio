@@ -30,7 +30,8 @@ export const projects = [
         img: recipe, 
         alt: "Recipe App img",
         name: "Recipe Finder App",
-        description:""
+        description:"A Recipe Finder website allows users to search for recipes, view detailed instructions, and watch cooking videos. Users can enter ingredients or recipe names to find matching results and see full recipe information with an embedded video for easy reference.",
+        link:"https://recipe-finder-henna-psi.vercel.app/"
 
     },
     {
