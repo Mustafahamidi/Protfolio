@@ -27,6 +27,7 @@ export default function Projects() {
               <img
                 src={project.img}
                 alt={project.name}
+                loading="lazy"
                 className="w-full h-56 object-cover rounded-t-lg mb-4"
               />
               <h3 className="text-2xl font-semibold text-purple-700 mb-2">{project.name}</h3>

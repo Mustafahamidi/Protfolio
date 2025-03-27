@@ -34,7 +34,8 @@ export default function Hero() {
   
       <div className="lg:w-1/2 mb-10 lg:mb-0">
       <img
-              src={Mustafa} // Assuming Mustafa is imported correctly
+              src={Mustafa}
+              loading="lazy" 
               alt="Hero Illustration"
               className="w-full max-w-xs lg:max-w-sm mx-auto rounded-lg" // Even smaller image size
       />
