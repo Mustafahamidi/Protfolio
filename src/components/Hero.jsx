@@ -16,7 +16,7 @@ export default function Hero() {
         </p>
         <div className="flex justify-center lg:justify-start gap-4">
         <a
-            href="/Mustafa_Hamidi_Safa_Resume[1].pdf" 
+            href="/Mustafa_Hamidi_Safa_Resume.pdf" 
             download="My_Resume.pdf" 
             className="px-6 py-3 bg-yellow-400 text-purple-900 font-bold rounded-md hover:bg-yellow-300 transition duration-300"
           >
