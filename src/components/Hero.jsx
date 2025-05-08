@@ -9,14 +9,13 @@ export default function Hero() {
       
       <div className="text-center lg:text-left lg:w-1/2">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-        Hi, I'm <span className="text-yellow-400">M.mustafa hamidi</span>, a Front-End Developer
+        Hi, I'm <span className="text-yellow-400">M.mustafa hamidi</span>, a Full Stack Developer
         </h1>
         <p className="text-lg sm:text-xl lg:text-2xl mb-8">
-        I'm a passionate Front-End Developer, dedicated to creating beautiful, user-friendly, and responsive websites. Here, you'll find a collection of my work, showcasing my skills in HTML, CSS, JavaScript, and React. Explore my projects, and let’s build something amazing together!
-        </p>
+        I'm a passionate Full Stack Developer dedicated to building responsive, user-friendly, and high-performance web applications. This portfolio showcases my work with technologies like HTML, CSS, JavaScript, React, TypeScript, and Tailwind CSS on the front end, as well as Node.js, Express.js, and MongoDB on the back end. Explore my projects—and let’s build something amazing together!        </p>
         <div className="flex justify-center lg:justify-start gap-4">
         <a
-            href="/Mustafa_Hamidi_Safa_Resume.pdf" 
+            href="/Mustafa_Hamidi_Resume.pdf" 
             download="My_Resume.pdf" 
             className="px-6 py-3 bg-yellow-400 text-purple-900 font-bold rounded-md hover:bg-yellow-300 transition duration-300"
           >

@@ -11,7 +11,7 @@ export default function About() {
           About Me
         </h2>
         <p className="text-lg sm:text-xl text-gray-700">
-          I'm a passionate Front-End Developer who loves building engaging and interactive web experiences. Here's a little bit about me.
+          I'm a passionate Full Stack Developer who loves building engaging and interactive web experiences. Here's a little bit about me.
         </p>
       </div>
   
@@ -31,8 +31,7 @@ export default function About() {
             Hello, I'm M.mustafa hamidi
           </h3>
           <p className="text-lg sm:text-xl text-gray-600 mb-6">
-            With 1 years of experience in Front-End Development, I specialize in creating beautiful, functional websites that provide smooth user experiences. I love to write clean, maintainable code and constantly learn new technologies to improve my skills.
-          </p>
+            With 1 year of experience as a Full Stack Developer, I specialize in building visually appealing, functional, and scalable web applications that deliver seamless user experiences. I’m passionate about writing clean, maintainable code and continuously learning modern technologies to grow my skills across both front-end and back-end development.          </p>
           <p className="text-lg sm:text-xl text-gray-600">
             When I'm not coding, you can find me exploring new tech trends, reading, or working on personal projects.
           </p>
