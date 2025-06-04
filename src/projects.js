@@ -14,7 +14,7 @@ export const projects = [
       img: ecommerce, 
       alt:"E-ecommerce website img",
       name: "E-commerce Website",
-      link: 'https://ecommerce-app-lemon-iota.vercel.app/',
+      link: 'https://hamid-frontend-mustafa-hamidis-projects.vercel.app/',
       description:
         "An E-commerce Website is an online platform that allows users to browse and purchase products, manage shopping carts, make secure payments, track orders, and offers features for sellers to manage inventory, process transactions, and track customer activities.",
     },
